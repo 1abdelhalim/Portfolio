@@ -14,3 +14,5 @@
 ### EDA 
 + [Iris Dataset Exploratory Data Analysis](https://github.com/1abdelhalim/Iris-Dataset-Exploratory-Data-Analysis)
 
+### SQL + Power BI 
++ [AdventureWorks DB](https://github.com/1abdelhalim/SQL-Power-BI)
