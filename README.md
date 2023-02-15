@@ -3,6 +3,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/abdel-halim/)
 
+### Linear Regression
 + [Sea level predictor](https://github.com/1abdelhalim/Sea-Level-Predictor)
 
 ### Time series Analysis
